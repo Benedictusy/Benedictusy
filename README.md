@@ -1,10 +1,10 @@
 ## About Me 👋
-- 🔭 I’m currently studying on Xidian University
+- 🔭 I’m currently a third-year student at Xidian University.
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with  AI master or Ph.D. 
 - 📫 How to reach me: 2844156249@qq.com
-
-## Open Source Experience 👯
+- 🎉 I am currently looking for a position in LLM application development.
+- 👯 I am studying related projects and will be uploading the results I have achieved so far to GitHub successively.
 
 
 <!--
