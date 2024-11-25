@@ -1,16 +1,21 @@
-## Hi there 👋
+## About Me 👋
+- 🔭 I’m currently studying on Xidian University
+- 🌱 I’m currently learning AI
+- 🤔 I’m looking for help with  AI master or Ph.D. 
+- 📫 How to reach me: 2844156249@qq.com
+
+## Open Source Experience 👯
+
 
 <!--
-**Benedictusy/Benedictusy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KashiwaByte/KashiwaByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+      
+- 🔭 I’m currently working on 西安电子科技大学
+- 🌱 I’m currently learning AI（人工智能专业）
+- 🤔 I’m looking for help with  AI master
+- 📫 How to reach me: qq 2844156249
 -->
+
+![Metrics](/github-metrics.svg)
